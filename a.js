@@ -7,3 +7,6 @@ console.log("Mình là B");
 console.log('Mình là A');
 
 console.log("Dev B viết thêm tí nữa");
+console.log('Mình là A ')
+
+console.log('tạo ra nhánh A ')
